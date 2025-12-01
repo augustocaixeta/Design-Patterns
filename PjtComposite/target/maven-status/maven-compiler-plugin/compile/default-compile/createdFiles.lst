@@ -1,0 +1,5 @@
+br\com\aacs\main\Main.class
+br\com\aacs\model\Menu.class
+br\com\aacs\model\MenuItem.class
+br\com\aacs\model\Waitress.class
+br\com\aacs\interfaces\MenuComponent.class

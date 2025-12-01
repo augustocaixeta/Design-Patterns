@@ -1,0 +1,8 @@
+br\com\aacs\main\Main.class
+br\com\aacs\interfaces\Observer.class
+br\com\aacs\interfaces\DisplayElement.class
+br\com\aacs\model\CurrentConditionsDisplay.class
+br\com\aacs\model\ForecastDisplay.class
+br\com\aacs\interfaces\Subject.class
+br\com\aacs\model\WeatherData.class
+br\com\aacs\model\StatisticsDisplay.class

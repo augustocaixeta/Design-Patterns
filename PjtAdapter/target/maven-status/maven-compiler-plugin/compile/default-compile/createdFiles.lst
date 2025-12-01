@@ -1,0 +1,6 @@
+br\com\aacs\model\TurkeyAdapter.class
+br\com\aacs\main\Main.class
+br\com\aacs\model\WildTurkey.class
+br\com\aacs\interfaces\Duck.class
+br\com\aacs\interfaces\Turkey.class
+br\com\aacs\model\MallardDuck.class
